@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Dialga",
+        "type": "Dragon/Steel"
+    },
+    {
+        "id": 3,
+        "name": "Charizard",
+        "type": "Fire/Flying"
+    },
+    {
+        "id": 4,
+        "name": "Rayquaza",
+        "type": "Dragon/Flying"
+    },
+    {
+        "id": 5,
+        "name": "Garchomp",
+        "type": "Dragon/Ground"
+    },
+    {
+        "id": 6,
+        "name": "pokemonName",
+        "type": "typeFighter"
+    }
+]
